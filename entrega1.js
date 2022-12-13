@@ -7,7 +7,7 @@ var Suma =(num, num1, num2) =>{
     alert(num + num1 + num2)
 }
 
-Suma(1,2,3);
+Suma(1,2,67);
 
 
 class Coche{
